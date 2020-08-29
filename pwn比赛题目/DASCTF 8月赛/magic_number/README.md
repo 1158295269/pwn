@@ -47,4 +47,5 @@ io.interactive()
 ```
 #### 注:
 1、0xFFFFFFFFFF600400 是 vsyscall 中的 time 函数的地址  
-2、\x48 是main函数中执行 system("/bin/sh") 函数的地址的后两位
+2、\x48 是main函数中执行 system("/bin/sh") 函数的地址的后两位  
+3、求群里的师傅们发下pwn另外的wp~~我太菜了做不出来~~
